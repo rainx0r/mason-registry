@@ -10,7 +10,6 @@ categories:
   - LSP
 
 source:
-  # renovate:datasource=github-releases
   id: pkg:generic/haskell/haskell-language-server@2.9.0.1
   build:
     - target: unix
